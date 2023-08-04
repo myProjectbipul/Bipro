@@ -1,0 +1,84 @@
+body {
+    font-size: 15pt;
+    background-color: #333333;
+}
+.Nav-Ber img{
+  height: 20px;
+  margin-right: 140px;
+  
+}
+.Nav-Ber a{
+  font-size: 5px;
+  margin-left: 10px;
+  
+}
+.Nav-Ber{
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  border-bottom: solid ;
+  width: 100%;
+  
+}
+.Nav-Ber img {
+  margin-bottom: 10px;
+}
+.a {
+  margin-bottom: 10px;
+  color: whitesmoke;
+}
+.DOM img{
+  width: 340px;
+  margin-top: 20px;
+  
+}
+.DOM p{
+  font-size: 10px;
+  color: white;
+}
+.DOM i{
+  margin-left: 5px;
+}
+.none{
+  display: none;
+}
+.aboutDOM {
+  width: 240px;
+  margin-top: 20px;
+  
+  
+}
+.aboutContent i{
+  margin-left: 10px;
+}
+.info i{
+  font-size: 20px;
+  margin-left: 8px;
+  margin-top: 10px;
+}
+.info{
+  display: flex;
+  
+}
+.info p{
+  font-size: 10px;
+  color: whitesmoke;
+  margin-left: 10px;
+}
+.comment{
+  margin-top: 190px;
+}
+.comment button{
+  color: whitesmoke;
+  background-color: tomato;
+}
+.commentbox{
+  border: solid;
+  height: 280px;
+  margin-top: 10px;
+  background-color: #f1f1f1;
+}
+.activeD{
+  color: tomato;
+  
+}
